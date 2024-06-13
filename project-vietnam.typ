@@ -238,8 +238,12 @@ Apart from the cable car, there are more to explore:
 #line(length: 100%, stroke: 1pt)
 
 We are going to explore these places:
--
--
+- Dragon Bridge, Fri - Sun 9:00 pm fire show
+- Temple of Lady Buddha
+- Hoi An Ancient Village, taking canal through the river; Hoi An night market
+- Ba Na Hills
+- Da Nang Museum of Cham, sculpture
+- Herb Bathing
 
 = Useful Tools 📱
 #line(length: 100%, stroke: 1pt)
